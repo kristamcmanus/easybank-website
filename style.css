@@ -377,4 +377,19 @@ footer ul {
   .articles .article_card {
     width: 100%;
   }
+
+  .article-thumbnail {
+    height: 300px;
+  }
+
+  .card_body {
+    padding: 10px 20px 40px 20px;
+  }
+
+  footer {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+  }
 }
